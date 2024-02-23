@@ -1,0 +1,11 @@
+Here is my files from my local PHP server to understand how mitigations could works
+ and how php actually works too.
+
+List of files : 
+
+info.php simple information page
+hello.php simple helloworld
+blank.php blank page that deux.php delete
+un.php creer un cookie
+deux.php script that delete blank.php
+quatre.php <------ file that you need to look // get the IP from enp4s0 and create a textfile with the IP 
