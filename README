@@ -2,10 +2,10 @@ Here is my files from my local PHP server to understand how mitigations could wo
 
 List of files : 
 
-add_ip_to_network.php 
+add_ip_to_network.php <-----command inection Owasp A03:2021 – Injection
 create_a_cookie.php             
-blank.php              
-erase_a_file_in_the_system.php  
-get_ip_info.php 
+blank.php <-------- file to erase             
+erase_a_file_in_the_system.php <----- erase blank
+get_ip_info.php <------ give the IP of the system 
 README
 info.php
